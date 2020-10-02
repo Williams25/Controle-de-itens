@@ -1,1 +1,2 @@
-# Controle-de-itens
+# CarrinhoJS
+Carrinho de Compras em Javascript
